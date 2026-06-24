@@ -1,0 +1,20 @@
+{
+  "greetings": [
+    "hola",
+    "buenos días",
+    "buenas",
+    "buenas tardes",
+    "buenas noches"
+  ],
+  "farewells": [
+    "adiós",
+    "hasta luego",
+    "nos vemos",
+    "chao"
+  ],
+  "qa": {
+    "¿cómo estás?": "Estoy bien, gracias. ¿Y tú?",
+    "qué puedes hacer": "Puedo responder preguntas simples, aprender respuestas nuevas y chatear.",
+    "¿qué puedes hacer?": "Puedo chatear y aprender nuevas respuestas."
+  }
+}
